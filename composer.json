@@ -1,0 +1,20 @@
+{
+    "name": "knunez/expression-tests",
+    "autoload": {
+        "psr-4": {
+            "Knunez\\ExpressionTests\\": "src/"
+        },
+        "classmap": [
+        "src/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Kelvin Nunez",
+            "email": "knunezweb@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    }
+}
